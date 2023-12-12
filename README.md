@@ -12,7 +12,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Add to the require section of your `composer.json` file.
 
 ```
-"ovidiupop/yii2-adminlte3": "*"
+"ovidiupop/yii2-adminlte3": "~1.0"
 ```
 
 
